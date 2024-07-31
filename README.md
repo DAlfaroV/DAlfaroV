@@ -1,7 +1,7 @@
 ### Universidad de La Serena student.
 ### Español/English.
 ***************************************
-Interest in automation
+Interested in automation and cybersecurity  
 Python, Rust, Golang, Java
 
 <!---
